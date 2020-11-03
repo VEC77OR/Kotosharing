@@ -1,0 +1,47 @@
+form.head {
+	color: #dc143c;
+	margin-top: 250px;
+	margin-left: 200px;
+	text-align: left;
+	font-size: 25pt;
+}
+form.who {
+	margin-top: 800px;
+	margin-left: 200px;
+	text-align: left;
+}
+form.motto {
+	margin-top: 100px;
+	margin-left: 200px;
+	text-align: left;
+}
+form.motto-img {
+	margin-top: 50px;
+	margin-left: 200px;
+}
+form.work {
+	margin-top: 100px;
+	margin-left: 200px;
+}
+form.cats {
+	margin-top: 100px;
+	margin-left: 200px;
+}
+form.table_ {
+	margin-top: 50px;
+	margin-left: 175px;
+}
+.raz td {
+	padding: 15px 25px;
+	text-align: center;
+}
+form.wait {
+	margin-top: 100px;
+	margin-left: 200px;
+	text-align: left;
+}
+form.btn {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 190px;
+}
